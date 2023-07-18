@@ -9,5 +9,4 @@
 
 
 ### Website Design
-
-![WebsiteDesign](https://github.com/hannahyoo99/PythonFlask_Personal_Project_Public/assets/109314038/8d0d4c91-a2fd-4336-9fd2-33d10a5282cf)
+![WebsiteDesign](https://github.com/hannahyoo99/PythonFlask_Personal_Project_Public/assets/109314038/fb04e2c5-e228-4297-9802-47cb8f0df49b)
