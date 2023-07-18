@@ -1,7 +1,10 @@
 # Magazine Subscription
 
 ## Overview
-Tracks a user's magazine subscription. Allows a user to view, add, edit and delete their magazines. Also, keeps track of magazine subscribers.
+- Tracks a user's magazine subscription.
+- Allows a user to view, add, edit and delete their magazines.
+- Keeps track of magazine subscribers.
+- Sign in security using bcrypt
 
 
 
