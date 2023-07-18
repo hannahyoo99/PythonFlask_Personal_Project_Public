@@ -1,5 +1,10 @@
-# PythonFlask Personal Project Public
+# Magazine Subscription
 
-## Project Design 
-![WebsiteDesign](https://github.com/hannahyoo99/PythonFlask_Personal_Project_Public/assets/109314038/b0dc544c-3382-45ef-b010-b2c7ed41f8a6)
+## Overview
+Tracks a user's magazine subscription. Allows a user to view, add, edit and delete their magazines. Also, keeps track of magazine subscribers.
+
+
+
+
+
 
